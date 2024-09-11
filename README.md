@@ -1,4 +1,4 @@
-🚀 Project Link: furtive-horse.surge.sh
+🚀 Project Link: [furtive-horse.surge.sh](https://furtive-horse.surge.sh/)
 Project Overview:
 This project is built using React with Vite as the build tool. It focuses on exploring different sign-in methods for user authentication while logging into a website.
 
